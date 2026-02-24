@@ -1,4 +1,6 @@
-## Hi there 👋
+## About Me 👋
+*Recent CS Graduate from Boston University and aspiring full-stack developer*
+
 
 <!--
 **alexko22/alexko22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
