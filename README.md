@@ -1,5 +1,11 @@
 ## About Me 👋
-*Recent CS Graduate from Boston University and aspiring full-stack developer*
+*Recent CS Graduate from Boston University and aspiring full-stack developer. Also interested in AI, automation, and finding creative ways to use technology*
+
+**My favorite tech stacks**
+- Python / Django / PostgreSQL
+- React / Next.js / TypeScript / MongoDB
+
+
 
 
 <!--
