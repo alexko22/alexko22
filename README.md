@@ -1,6 +1,6 @@
 ## About Me 👋
 
-Full-stack developer and recent Computer Science graduate from Boston University. Interested in software engineering, AI, and building creative technology solutions. I particuarly love finding ways to combine all three!
+Full-stack developer and recent Computer Science graduate from Boston University. Interested in software engineering, artificial intelligence, and finding creative ways to use technology. I particuarly love finding ways to combine all three!
 
 ### My Favorite Technologies are:
 - Python / JavaScript / TypeScript
