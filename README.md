@@ -1,6 +1,6 @@
 ## About Me 👋
 
-Junior Full Stack Developer at Giftogram and recent Computer Science graduate from Boston University. I'm also serving as an AI Specialist @ JerseySTEM. Interested in software engineering, artificial intelligence, and finding creative ways to use technology. I particuarly love finding ways to combine all three!
+Junior Full Stack Developer at Giftogram and recent Computer Science graduate from Boston University. I recently wraped up my team as a volunteer AI Specialist @ JerseySTEM. Interested in software engineering, artificial intelligence, and finding creative ways to use technology. I particuarly love finding ways to combine all three!
 
 ### My Favorite Technologies are:
 - Languages: Python / JavaScript / TypeScript
