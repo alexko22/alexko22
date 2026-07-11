@@ -1,16 +1,11 @@
 ## About Me 👋
 
-Junior Full Stack Developer at Giftogram and recent Computer Science graduate from Boston University. I recently wrapped up my time as a volunteer AI Specialist @ JerseySTEM. Interested in software engineering, artificial intelligence, and finding creative ways to use technology. I particuarly love finding ways to combine all three!
+Junior Full Stack Developer with experience building and maintaining web applications using modern full-stack technologies. Fall 2025 Computer Science graduate with experience in feature development, bug fixes, database management, and QA automation. Passionate about keeping up with the rapidly evolving field of AI and leveraging technology to develop creative solutions to real-world problems while continuously expanding my technical expertise.
 
 ### My Favorite Technologies are:
-- Languages: Python / JavaScript / TypeScript
-- Tech Stack: React / Next.js / Django
+- Languages: PHP / Python / JavaScript / TypeScript
+- Tech Stack: Laravel / Django / Next / React / Vue,
 - Databases: MySQL / PostgreSQL / MongoDB
-- Hosting: Vercel / Render / Heroku
+- General: GitHub, VS Code, Jetbrains, Microsoft Power Platform
 
 Take a look at some of my pinned projects below, and feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/alex-olson-403aab27a/) if you’d like to collaborate or exchange ideas. You can also learn more about me on my personal [portfolio](https://portfolio-page-eta-three.vercel.app/)!
-
-
-
-
-
