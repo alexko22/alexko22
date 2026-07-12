@@ -4,7 +4,7 @@ Junior Full Stack Developer with experience building and maintaining web applica
 
 ### My Favorite Technologies are:
 - Languages: PHP / Python / JavaScript / TypeScript
-- Tech Stack: Laravel / Django / Next / React / Vue,
+- Tech Stack: Laravel / Django / Next / React / Vue
 - Databases: MySQL / PostgreSQL / MongoDB
 - General: GitHub, VS Code, Jetbrains, Microsoft Power Platform
 
