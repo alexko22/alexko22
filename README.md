@@ -1,6 +1,6 @@
 ## About Me 👋
 
-Junior Full Stack Developer @ Giftogram with experience building and maintaining web applications using modern full-stack technologies. Fall 2025 Computer Science graduate with experience in feature development, bug fixes, database management, and QA automation. Passionate about keeping up with the rapidly evolving field of AI and leveraging technology to develop creative solutions to real-world problems while continuously expanding my technical expertise.
+Junior Full Stack Developer @ Giftogram with experience building and maintaining web applications using modern full-stack technologies. Fall 2025 BU CS graduate with experience in feature development, bug fixes, database management, and QA automation. Passionate about keeping up with the rapidly evolving field of AI and leveraging technology to develop creative solutions to real-world problems while continuously expanding my technical expertise.
 
 ### My Favorite Technologies are:
 - Languages: PHP / Python / JavaScript / TypeScript
