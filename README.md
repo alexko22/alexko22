@@ -8,4 +8,4 @@ Junior Full Stack Developer @ Giftogram with experience building and maintaining
 - Databases: MySQL / PostgreSQL / MongoDB
 - General: GitHub, VS Code, Jetbrains, Microsoft Power Platform
 
-Not all my projects are open source, but you can take a look at some of my pinned projects below, and feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/alex-olson-403aab27a/) if you’d like to collaborate or exchange ideas. You can also learn more about me on my personal [portfolio](https://portfolio-page-eta-three.vercel.app/)!
+Not all my projects are open source, and most of my commits are attached to my seperate work account. However, you can take a look at some of my pinned projects below, and feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/alex-olson-403aab27a/) if you’d like to collaborate or exchange ideas. You can also learn more about me on my personal [portfolio](https://portfolio-page-eta-three.vercel.app/)!
